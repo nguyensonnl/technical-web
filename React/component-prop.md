@@ -37,4 +37,5 @@ const ComponentA = () => {
 export default ComponentA
 ```
 
-Tùy thuộc vào bạn chọn hook hay class mà chọn cho mình cách khai báo phù hợp,  nên sử dụng cách arrow function vì nó ngắn gọn
+Tùy thuộc vào bạn chọn hook hay class mà chọn cho mình cách khai báo phù hợp  
+nên sử dụng cách arrow function vì nó ngắn gọn
