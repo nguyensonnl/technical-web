@@ -1,8 +1,8 @@
 ### About Web
 
-Là gì? what?
-Tại sao sử dụng? why?
-Sử dụng như nào? How?
+- Là gì? what?
+- Tại sao sử dụng? why?
+- Sử dụng như nào? How?
 
 ### Programing Framework
 
